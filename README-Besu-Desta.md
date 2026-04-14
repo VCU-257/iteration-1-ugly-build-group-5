@@ -1,4 +1,4 @@
-# Student Name: 
+# Student Name: Besu Desta
 
 ## 1. My Assigned Work
 I was assigned to build the account page for Flow B. My work focused on creating the basic account screen structure, making sure users can view core account information, and ensuring the page fits into the overall navigation flow between the other screens.
