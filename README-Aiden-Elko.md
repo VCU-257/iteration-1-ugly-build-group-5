@@ -21,3 +21,7 @@ One challenge was syncing data between pages without a backend. I solved this by
 *Did you use an AI tool to help write or debug your code?*
 * **What I asked the AI:** I asked AI to help me structure homepage logic, connect events created on the calendar to weekly homepage cards, wire navigation between pages, and implement click-to-focus behavior from homepage events to the matching calendar day.
 * **How it helped & What I learned:** It helped me break the work into clear steps, improve consistency across pages, and better understand how front-end state can be shared through localStorage and URL parameters in a multi-page app.
+
+## 5. Live Site Link
+*Provide the GitHub Pages link to the specific page(s) you built.*
+* **Live URL:** https://vcu-257.github.io/iteration-1-ugly-build-group-5/homepage.html

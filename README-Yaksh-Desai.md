@@ -20,3 +20,7 @@ Creating the input fields was a bit of a challenge initially
 *Did you use an AI tool to help write or debug your code?*
 * **What I asked the AI:** I asked AI to help me by helping me plan the page out and then rudiementally make it and then asked it how t make the certain elements I needed and also help me refine them if needed
 * **How it helped & What I learned:** It helped make the page more understandabale and intuitive even as a ugly itereation and also helped me learn about what AI can be used for in this type of project.
+
+## 5. Live Site Link
+*Provide the GitHub Pages link to the specific page(s) you built.*
+* **Live URL:** https://vcu-257.github.io/iteration-1-ugly-build-group-5/homepage.html

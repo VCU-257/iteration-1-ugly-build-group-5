@@ -13,3 +13,7 @@ The hardest part was structuring the form fields cleanly inside a card using Boo
 ## 4. AI / LLM Usage
 * **What I asked the AI:** How to structure a Bootstrap 5 card with form inputs.
 * **How it helped & What I learned:** It gave me a starting point. I reviewed each class and adjusted the structure myself to match the wireframe.
+
+## 5. Live Site Link
+*Provide the GitHub Pages link to the specific page(s) you built.*
+* **Live URL:** https://vcu-257.github.io/iteration-1-ugly-build-group-5/homepage.html
